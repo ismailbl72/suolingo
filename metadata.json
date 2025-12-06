@@ -1,0 +1,7 @@
+{
+  "name": " Suolingo Avatar",
+  "description": "A React web application featuring an interactive animated avatar with Text-to-Speech (TTS) and Speech-to-Text (STT) capabilities, featuring glassmorphism design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
